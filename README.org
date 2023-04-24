@@ -1,0 +1,22 @@
+#+title: Ninja vs Zombies
+#+subtitle: 
+#+author: Konstantinos Chousos
+#+language: en
+#+options: num:nil toc:nil date:nil timestamp:nil
+
+This is a bare-bones platform game, developed for the [[https://k08.chatzi.org/][Data Structures and Algorithms]] course of the [[https://www.di.uoa.gr/][Department of Informatics and Telecommunications of the University of Athens]]. The specification can be found [[https://k08.chatzi.org/2021/projects/project1/][here]]. It uses the excellent [[https://www.raylib.com/][Raylib library]] and it is written entirely in C.
+
+* Screenshots
+
+#+caption: Playing the game
+[[file:static/playing.png]]
+
+#+caption: The "pause" screen
+[[file:static/paused.png]]
+
+#+caption: When you lose
+[[file:static/died.png]]
+
+* Compilation
+
+You can run the game by executing =make run= in the root directory.
