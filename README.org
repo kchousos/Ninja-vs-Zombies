@@ -5,7 +5,7 @@
 
 This is a bare-bones platform game, developed for the [[https://k08.chatzi.org/][Data Structures and Algorithms]] course of the [[https://www.di.uoa.gr/][Department of Informatics and Telecommunications of the University of Athens]]. The specification can be found [[https://k08.chatzi.org/2021/projects/project1/][here]]. It uses the excellent [[https://www.raylib.com/][Raylib library]] and it is written entirely in C.
 
-* Screenshots
+** Screenshots
 
 #+caption: Playing the game
 [[file:static/playing.png]]
@@ -16,6 +16,6 @@ This is a bare-bones platform game, developed for the [[https://k08.chatzi.org/]
 #+caption: When you lose
 [[file:static/died.png]]
 
-* Compilation
+** Compilation
 
 You can run the game by executing =make run= in the root directory.
