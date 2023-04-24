@@ -1,5 +1,4 @@
 #+title: Ninja vs Zombies
-#+subtitle: 
 #+author: Konstantinos Chousos
 #+language: en
 #+options: num:nil toc:nil date:nil timestamp:nil
